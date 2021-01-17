@@ -22,7 +22,7 @@
 | ``id``     | ``int``     | ``primary key`` |
 | ``name``   | ``varchar`` | -               |
 | ``salary`` | ``varchar`` | -               |
-| ``ciry``   | ``varchar`` | -               |
+| ``city``   | ``varchar`` | -               |
 
 - ``position_detail``
 
